@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="accessibility_service_description">此服务用于检测文本选择并提供朗读功能。选择文本后，会在附近显示朗读按钮，点击即可朗读选中的文本。</string>
+    <string name="select_text_hint">长按此处的文字进行选择，然后点击"朗读"按钮即可朗读选中的文字。</string>
+    <string name="speak">朗读</string>
+    <string name="grant_overlay_permission">授予悬浮窗权限</string>
+    <string name="open_accessibility_settings">打开辅助功能设置</string>
+    <string name="usage_instructions">使用说明：\n1. 点击上方按钮授予必要权限\n2. 在辅助功能中启用本应用服务\n3. 在任意应用中长按文字即可使用朗读功能</string>
+</resources>
